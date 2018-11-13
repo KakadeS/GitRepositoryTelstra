@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TelstraAssignmentTask</string>
+    <string name="network_check">No Network Connection</string>
+</resources>

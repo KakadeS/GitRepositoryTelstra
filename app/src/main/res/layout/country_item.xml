@@ -38,7 +38,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:gravity="center"
-                    android:text="Flag"
                     android:layout_gravity="center"
                     android:textColor="@color/colorPrimaryDark"
                     android:textSize="@dimen/tile_size"
@@ -48,7 +47,7 @@
                 <TextView
                     android:id="@+id/country_description"
                     android:layout_width="match_parent"
-                    android:layout_marginLeft="2dp"
+                    android:layout_marginLeft="@dimen/description_margin_left"
                     android:layout_height="match_parent"
                     android:textColor="@color/colorPrimaryDark"
                     android:textSize="@dimen/description_size"

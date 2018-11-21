@@ -7,5 +7,6 @@
     <dimen name="description_size">15sp</dimen>
     <dimen name="view_height">1dp</dimen>
     <dimen name="view_top_dimen">4dp</dimen>
+    <dimen name="relative_margin">5dp</dimen>
     <dimen name="description_margin_left">2dp</dimen>
 </resources>
